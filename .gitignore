@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+logs/
+crash_logs/
+recordings/
+*.sqlite3*
+STOP
+*.zip

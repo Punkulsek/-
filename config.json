@@ -1,0 +1,16 @@
+{
+  "window_title": "쿠키런",
+  "jump_key": "capslock",
+  "slide_key": "enter",
+  "fps": 30,
+  "auto_restart": false,
+  "record": true,
+  "debug": true,
+  "dry_run": true,
+  "player_x": 0.22,
+  "ground_y": 0.81,
+  "jump_velocity": 620.0,
+  "gravity": 1800.0,
+  "horizon": 1.2,
+  "confidence": 0.65
+}
